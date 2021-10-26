@@ -66,4 +66,3 @@ function Ambitions() {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Artur-Ceschin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-Ceschin&layout=compact&langs_count=7&theme=dark"/>
 </div>
-![](https://komarev.com/ghpvc/?username=your-github-ArturCeschin&color=ff69b4&style=flat&label=visitors)
