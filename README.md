@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there, I'm Artur
 	<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-	     width="30px"> 
+	     width="5px"> 
 	Welcome to my Profile!!! 
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=Artur-Ceschin.marcelo-rafael" 
 	     alt="visitors">
