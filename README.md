@@ -1,7 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Artur
-	<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-	     width="5px"> 
+  Hi there, I'm Artur 👋️
 	Welcome to my Profile!!! 
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=Artur-Ceschin.marcelo-rafael" 
 	     alt="visitors">
@@ -24,14 +22,14 @@ const WhoAmI = {
 	
  function getCurrentCity() {
 	return Vinhedo_Brazil
-  }
+}
 	
 function Ambitions() {
 	travelToAustralia()
 	LearToPlayGuitar()
 	startWritingMyBook()
 //Assume 10 more awesome ambitions here ;)
-	} 
+} 
  ```
  #
 <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
