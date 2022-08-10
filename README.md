@@ -1,9 +1,4 @@
-<h1 align="center">
-  Hi there, I'm Artur 👋️
-	Welcome to my Profile!!! 
-	<img src="https://visitor-badge.laobi.icu/badge?page_id=Artur-Ceschin.marcelo-rafael" 
-	     alt="visitors">
-</h1>
+<h1 align="center">Hi there, I'm Artur <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to my Profile!!!  </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Artur%20Ceschin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-peres-ceschin-programador/)](https://www.linkedin.com/in/artur-peres-ceschin-programador/) 
 [![Gmail Badge](https://img.shields.io/badge/-artur.ceschin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:artur.ceschin@gmail.com)](mailto:artur.ceschin@gmail.com)
@@ -12,7 +7,7 @@
 const WhoAmI = {
   user: "Artur Ceschin",
   role: "fullStack",
-  current_edu: "Rocketseat",
+  current_edu: "Rocketseat", 
   hobbies: [
    "Studying",
    "Practicing sports",
