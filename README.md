@@ -20,9 +20,9 @@ const WhoAmI = {
 }
 	
 function Ambitions() {
-	travelToAustralia()
+	travelToGermany()
 	LearToPlayGuitar()
-	startWritingMyBook()
+	havingMyProgammingYouTubeChannel()
 //Assume 10 more awesome ambitions here ;)
 } 
  ```
